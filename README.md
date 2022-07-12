@@ -1,11 +1,16 @@
 [![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)](https://kanikshas4.io)
 <h1 align="center">Hi 👋, I'm Kaniksha sharma</h1>
 <h3 align="center">AI & ML Fanatic!</h3>
-<img class="center" alt="Coding" width="400" src="https://c.tenor.com/2SeTinGEKNQAAAAd/codelikeagirl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanikshas4&label=Profile%20views&color=0e75b6&style=flat" alt="kanikshas4" /> </p>
 
+- 🔭 I’m currently working As **AI/ML Intern**
+
 - 🌱 I’m currently learning **NLP and computer vision**
+
+- 👯 I have worked as **Subject matter expert Machine Learning at YHills Pvt. Ltd.**
+
+- 🤝 Summarize your text with my application,Build with Flask framework and Huggingface Transfomer (https://summarizer426.herokuapp.com/)
 
 - 📫 How to reach me **workkanikshasharma@gmail.com**
 
