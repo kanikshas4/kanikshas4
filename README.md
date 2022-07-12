@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **workkanikshasharma@gmail.com**
 
+- 👨‍💻 Checkout My Portfolio (https://kanikshas4.github.io/my_portfolio_website/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kaniksha-sharma-4117761a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaniksha-sharma-4117761a7/" height="30" width="40" /></a>
