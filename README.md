@@ -1,7 +1,7 @@
 [![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)](https://kanikshas4.io)
 <h1 align="center">Hi 👋, I'm Kaniksha sharma</h1>
 <h3 align="center">AI & ML Fanatic!</h3>
-
+<img align ="center" src ="https://c.tenor.com/2SeTinGEKNQAAAAd/codelikeagirl.gif" alt = "code" width ="500" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanikshas4&label=Profile%20views&color=0e75b6&style=flat" alt="kanikshas4" /> </p>
 
 - 🔭 I’m currently working As **AI/ML Intern**
