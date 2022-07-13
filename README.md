@@ -12,6 +12,8 @@
 
 - 🤝 Summarize your text with my application,Build with Flask framework and Huggingface Transfomer (https://summarizer426.herokuapp.com/)
 
+- Check out my blog - https://dev.to/kanikshas4/lets-build-an-easy-computer-vision-web-app-with-streamlit-streamlit-webrtc-4fp0
+
 - 📫 How to reach me **workkanikshasharma@gmail.com**
 
 - 👨‍💻 Checkout My Portfolio (https://kanikshas4.github.io/my_portfolio_website/)
